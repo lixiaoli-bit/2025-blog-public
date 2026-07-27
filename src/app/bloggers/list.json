@@ -8,20 +8,6 @@
 		"status": "disconnected"
 	},
 	{
-		"name": "Josh W. Comeau",
-		"url": "https://www.joshwcomeau.com/",
-		"avatar": "https://www.joshwcomeau.com/favicon.png",
-		"description": "John blog 更像是一个课程网站，每一篇文章都书写的很好，每次阅读都能吸收到新的东西。网站设计也恰到好处，工整、有趣。",
-		"stars": 5
-	},
-	{
-		"name": "nanda",
-		"url": "https://www.nan.fyi/",
-		"avatar": "https://www.nan.fyi/favicon.ico",
-		"description": "设计大师，nanda 。页面只用灰色加线条，都让我觉得叹为观止，内容不多，每篇都精雕细琢。跟 Josh 一样，属于技术网站，但它的教程引导更加出神入化，可称为程序艺术家。",
-		"stars": 5
-	},
-	{
 		"name": "Emil Kowalski",
 		"url": "https://emilkowal.ski/",
 		"avatar": "https://emilkowal.ski/favicon.ico",
@@ -62,40 +48,12 @@
 		"status": "disconnected"
 	},
 	{
-		"name": "enpitsulin 铅笔",
-		"url": "https://enpitsulin.xyz/",
-		"avatar": "https://enpitsulin.dev/images/avatar.webp",
-		"description": "很简洁的blog网站，像 nanda。只不过很久没内容了。他现在的头像一时让我想不起他是谁了，突然发现它过去可爱头像，我想起来这家伙了。",
-		"stars": 2
-	},
-	{
-		"name": "Innei 静かな森",
-		"url": "https://innei.in/",
-		"avatar": "https://cdn.jsdelivr.net/gh/Innei/static@master/avatar.png",
-		"description": "网站还行，是典型的那种某个时代的产物，我不太get。但是内容活跃，并且他好像很火？但我没找出他为什么火。项目还是挺多的。",
-		"stars": 3
-	},
-	{
 		"name": "秋夜灯雨",
 		"url": "https://blog.lierhua.top/",
 		"avatar": "https://blog.lierhua.top/images/web/yyqda3.svg",
 		"description": "看名字，就知道是过去的残党了。但是我挺喜欢他的设计的，页面清晰，一股书生气。虽然是老人，但能追溯的过去并不多。",
 		"stars": 3,
 		"status": "disconnected"
-	},
-	{
-		"name": "BlogFinder",
-		"url": "https://bf.zzxworld.com/",
-		"avatar": "https://bf.zzxworld.com/images/favicon.png",
-		"description": "一个 blog 收集网站，可以查阅有哪些 blog，也可以直接看最近谁更新了什么",
-		"stars": 3
-	},
-	{
-		"name": "Tonsky",
-		"url": "https://tonsky.me/",
-		"avatar": "https://avatars.githubusercontent.com/u/285292?v=4",
-		"description": "一个过去的国外大神，忘了是什么时候发现它的，blog 依旧时不时更新。就是现在 blog 太刺眼了，不知道是不是故意的。",
-		"stars": 3
 	},
 	{
 		"name": "Cali",
