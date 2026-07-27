@@ -5,7 +5,7 @@
 		"username": "Lixiaoli"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
+		"colorBrand": "#28B89E",
 		"colorPrimary": "#5B423F",
 		"colorSecondary": "#8b7667",
 		"colorBrandSecondary": "#eec25e",
@@ -15,9 +15,14 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#E881B0",
+		"#DABCDA",
+		"#4F5ADA",
+		"#B9444D",
+		"#F803FB",
+		"#E54D52",
+		"#7E2165",
+		"#E0F901"
 	],
 	"artImages": [
 		{
