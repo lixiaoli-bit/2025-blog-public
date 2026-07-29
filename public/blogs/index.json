@@ -2,7 +2,9 @@
   {
     "slug": "md-study",
     "title": "md学习基本的操作步骤",
-    "tags": [],
+    "tags": [
+      "#md基本语法"
+    ],
     "date": "2026-07-29T11:23",
     "summary": "md的学习，修改基本的操作步骤",
     "hidden": false,
