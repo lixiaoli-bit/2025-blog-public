@@ -1,5 +1,18 @@
 [
   {
+    "slug": "Edgestash",
+    "title": "Edgestash - 基于 Cloudflare R2 的免费云盘搭建指南",
+    "tags": [
+      "Edgestash",
+      "Cloudflare",
+      "私有云盘"
+    ],
+    "date": "2026-07-29T20:26",
+    "summary": "Edgestash - 基于 Cloudflare R2 的免费云盘搭建指南，只需一个 Cloudflare 账号即可拥有功能完备的私有云盘",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "Bzhan-md",
     "title": "B站Markdown笔记一键生成",
     "tags": [
