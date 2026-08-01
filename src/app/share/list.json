@@ -34,8 +34,9 @@
 		"name": "Bivinote",
 		"url": "https://github.com/hyglgithub/BiViNote/releases%EF%BC%8C",
 		"logo": "https://neumorphism.io/apple-touch-icon.png",
-		"description": "Neumorphism 是一种极具鲜明特色的设计风格，总能给新人一种惊叹感。但是应用并不广泛，实际开发也会有很多不好的点。更多是做一个留念。",
+		"description": "告别反复暂停截图 + 手动整理笔记的低效模式，一键生成Markdown笔记，AI二次整理，让B站学习效率翻倍。",
 		"tags": [
+			"插件",
 			"Github"
 		],
 		"stars": 5
