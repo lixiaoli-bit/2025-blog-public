@@ -72,7 +72,8 @@
 
 🔄 更新系统（输入 Y 确认）：
 
-apt update && apt upgrade -y
+#### apt update && apt upgrade 
+---
 🌐 打开 1Panel 官网，复制 Ubuntu 安装命令，粘贴到终端中执行。
 
 📂 安装过程中会提示设置目录、端口、安全入口，直接回车使用随机值即可。
