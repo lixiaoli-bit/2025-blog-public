@@ -1,5 +1,17 @@
 [
   {
+    "slug": "xiaohe",
+    "title": "小鹤双拼键位记忆法",
+    "tags": [
+      "小鹤",
+      "双拼"
+    ],
+    "date": "2026-08-02T12:00",
+    "summary": "小鹤双拼键位记忆法",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "yamaxun",
     "title": "1Panel + 亚马逊云服务器：从零搭建博客，有手就行",
     "tags": [
