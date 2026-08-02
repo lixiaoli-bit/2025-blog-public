@@ -1,5 +1,17 @@
 [
   {
+    "slug": "Wasmer",
+    "title": "Wasmer零成本搭建个人博客的方案， 搭配 Argon 主题就是现阶段性价比极高的选择。",
+    "tags": [
+      "Wasmer",
+      "博客"
+    ],
+    "date": "2026-08-02T19:13",
+    "summary": "Wasmer零成本搭建个人博客的方案， 搭配 Argon 主题就是现阶段性价比极高的选择。",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "Docker",
     "title": "Docker 入门保姆级教程：镜像、容器、Compose 一次全讲明白",
     "tags": [
