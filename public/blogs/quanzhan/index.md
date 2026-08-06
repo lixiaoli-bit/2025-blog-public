@@ -25,7 +25,7 @@
 
 帮助你快速理解 **从本地到公网** 的部署基础流程。
 
-🔗 [📄 阅读全文](./index.html) &nbsp;|&nbsp; 🏷️ `#Linux` `#Vim` `#Nginx` `#服务器`
+🔗 [📄 阅读全文](https://zero-to-tech.pages.dev/main) &nbsp;|&nbsp; 🏷️ `#Linux` `#Vim` `#Nginx` `#服务器`
 
 ---
 
@@ -41,7 +41,7 @@
 
 梳理出一条 **从零到公网** 的清晰部署路径。
 
-🔗 [📄 阅读全文](./about.html) &nbsp;|&nbsp; 🏷️ `#Git` `#GitHub` `#SSH` `#部署`
+🔗 [📄 阅读全文](https://zero-to-tech.pages.dev/main) &nbsp;|&nbsp; 🏷️ `#Git` `#GitHub` `#SSH` `#部署`
 
 ---
 
@@ -55,7 +55,7 @@
 - 📦 第三方库（anime.js）按需加载
 - 🏗️ 为构建大型应用奠定基础
 
-🔗 [📄 阅读全文](./mokuai.html) &nbsp;|&nbsp; 🏷️ `#ESModule` `#模块化` `#工程化` `#JavaScript`
+🔗 [📄 阅读全文](https://zero-to-tech.pages.dev/main) &nbsp;|&nbsp; 🏷️ `#ESModule` `#模块化` `#工程化` `#JavaScript`
 
 ---
 
@@ -69,7 +69,7 @@
 - 🔧 `dev` / `build` / `preview` 三条核心命令
 - 🚀 告别繁琐请求与缓存问题，拥抱现代化开发体验
 
-🔗 [📄 阅读全文](./goujian.html) &nbsp;|&nbsp; 🏷️ `#Vite` `#构建工具` `#NodeJS` `#工程化`
+🔗 [📄 阅读全文](https://zero-to-tech.pages.dev/main) &nbsp;|&nbsp; 🏷️ `#Vite` `#构建工具` `#NodeJS` `#工程化`
 
 ---
 
