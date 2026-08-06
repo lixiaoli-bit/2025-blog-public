@@ -10,6 +10,8 @@
 - [🚀 Git · 服务器 · 部署笔记](#2-git--服务器--部署笔记)
 - [🧩 模块化 · 工程化笔记](#3-模块化--工程化笔记)
 - [⚙️ 构建工具 · Vite 从零上手](#4-构建工具--vite-从零上手)
+- [⚛️ React · 组件 · 开发笔记](#5-react--组件--开发笔记)
+- [🚢 数据驱动 · 部署笔记](#6-数据驱动--部署笔记)
 
 ---
 
@@ -70,6 +72,46 @@
 - 🚀 告别繁琐请求与缓存问题，拥抱现代化开发体验
 
 🔗 [📄 阅读全文](https://zero-to-tech.pages.dev/main) &nbsp;|&nbsp; 🏷️ `#Vite` `#构建工具` `#NodeJS` `#工程化`
+
+---
+---
+
+## ⚛️ 5. React · 组件 · 开发笔记
+
+> 🧩 从积木到页面——React 组件化思维入门
+
+详细讲解：
+- 🧱 组件思想：按界面单元拆分，封装结构/样式/数据/行为
+- 📦 安装 React 与 Vite 插件配置
+- 🪪 `ResultCard` 组件完整解读（JSX、props、ref、useEffect）
+- 🏗️ 组件嵌套：`TextLabPage` 如何拼装页面
+- 🌳 React 项目骨架与文件职责划分
+- 🚀 从 0 新建 React 项目（`npm create vite`）
+
+帮助你理解 **React 如何重新定义前端开发方式**——HTML 退化为挂载点，真实内容由组件渲染。
+
+🔗 [📄 阅读全文](https://zero-to-tech.pages.dev/main) &nbsp;|&nbsp; 🏷️ `#React` `#JSX` `#组件` `#Vite`
+
+---
+
+## 🚢 6. 数据驱动 · 部署笔记
+
+> 📡 从组件到公网——数据驱动界面与项目部署实战
+
+内容涵盖：
+- 📊 数据驱动界面：界面跟着“值”走（props + state + 路由）
+- 📂 内容与组件分离（`site.js` 集中管理文案）
+- 🔗 路由（`useRoute.js`）——把页面状态写进 URL
+- 🖥️ 服务器部署全流程：
+  - 安装 Node.js（nvm）
+  - 拉取代码 & 安装依赖
+  - `npm run build` 生成 `dist/`
+  - Nginx 指向构建产物
+- 🔄 日常更新流程：`git push` → `git pull` → `install` → `build`
+
+梳理出 **工程化 React 项目从开发到公网** 的完整部署路径，与手写 HTML 部署方式形成对比。
+
+🔗 [📄 阅读全文](https://zero-to-tech.pages.dev/main) &nbsp;|&nbsp; 🏷️ `#React` `#数据驱动` `#部署` `#Nginx` `#NodeJS`
 
 ---
 
