@@ -1,6 +1,6 @@
 # Docker 入门到实战：从零搭建容器化应用
 
-> **原文地址**：[https://zero-to-tech.pages.dev/dockerdemo.html](https://zero-to-tech.pages.dev/dockerdemohtml)
+> **原文地址**：[https://zero-to-tech.pages.dev/dockerdemo.html](https://zero-to-tech.pages.dev/dockerdemo.html)
 
 ---
 
