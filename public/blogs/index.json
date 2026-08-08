@@ -1,5 +1,14 @@
 [
   {
+    "slug": "xiaoshou",
+    "title": "销售语录",
+    "tags": [],
+    "date": "2026-08-08T19:09",
+    "summary": "销售语录",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "docker",
     "title": "Docker 入门到实战：从零搭建容器化应用",
     "tags": [
